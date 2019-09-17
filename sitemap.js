@@ -45,5 +45,5 @@ var toc_config = {
     delayLoading: 0
 };
 </script>
-<script src="https://cdn.statically.io/gh/margatomsio95/sitemap/918885fa/sitemap-mt.js"></script>
+<script src="https://cdn.statically.io/gh/margatomsio95/sitemap/0cf7392b/sitemap.js"></script>
 </div>
