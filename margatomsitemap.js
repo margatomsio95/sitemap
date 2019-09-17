@@ -11,7 +11,7 @@
 <ul id=”feedContainer”></ul>
 <div id=”feedNav”>
 Loading…</div>
-<script src=”https://cdn.rawgit.com/Arlina-Design/FlamingTree/master/sitemap-tab.js” type=”text/javascript”></script>
+<script src=”https://raw.githack.com/margatomsio95/sitemap/master/margatomsitemap.js” type=”text/javascript”></script>
 <style scoped=”” type=”text/css”>
 #comments {display:none;}
 </style>
