@@ -11,7 +11,7 @@
 <ul id=”feedContainer”></ul>
 <div id=”feedNav”>
 Loading…</div>
-<script src=”https://raw.githack.com/margatomsio95/sitemap/master/margatomsitemap.js” type=”text/javascript”></script>
+<script src=”https://cdn.statically.io/gh/margatomsio95/sitemap/ff20a41e/margatomsitemap.js” type=”text/javascript”></script>
 <style scoped=”” type=”text/css”>
 #comments {display:none;}
 </style>
